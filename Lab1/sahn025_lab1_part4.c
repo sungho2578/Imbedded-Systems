@@ -1,6 +1,6 @@
 /*	Partner(s) Name & E-mail: Than Phan & tphan029@ucr.edu
  *	Lab Section: 23
- *	Assignment: Lab 1 Exercise 1
+ *	Assignment: Lab 1 Exercise 4
  *	
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
